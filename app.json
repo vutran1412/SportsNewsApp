@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name" : "SportsNewsApp",
+    "icon" : "SportsNewsApp/live.png",
+    "sdkVersion": "27.0.0",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.vu.SportsNewsApp"
+    },
+    "android": {
+      "package": "com.vu.SportsNewsApp"
+    }
+
+  }
+}
